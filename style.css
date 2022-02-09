@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+}
+
+  #um-grad{
+     
+      padding: 10px;
+      height: 200px;
+      background: linear-gradient(14deg , orange, pink, blue, yellow);
+  
+  }
+  
+  #dois-grad{
+     
+    padding: 10px;
+     height: 200px;
+  
+  
+  background: linear-gradient(36deg ,red, brown, green,white);
+  
+  }
+
+  #tres-grad{
+     
+    padding: 10px;
+    height: 200px;
+    
+
+   background: linear-gradient(to left,black,violet, gray, yellow, orange);
+
+}
+
+#quatro-grad{
+   
+  padding: 10px;
+   height: 200px;
+   
+
+background: linear-gradient(36deg , pink, brown, gray,white);
+
+}
+
+#cinco-grad{
+     
+    padding: 10px;
+    height: 200px;
+    
+
+background: linear-gradient(to top , red, green, blue, yellow);
+
+}
+
+#seis-grad{
+   
+  padding: 10px;
+   height: 200px;
+   
+
+background: linear-gradient(36deg , pink, brown, gray,white);
+
+}
+
+#sete-grad{
+   
+  padding: 10px;
+  height: 200px;
+  
+
+background: radial-gradient( brown, green, blue, yellow, pink,violet,red);
+
+}
+
+#oito-grad{
+ 
+padding: 10px;
+height: 200px;
+
+background: linear-gradient(50deg , pink, red, orange,white, gray, yellow);
+
+}
+
+h2{
+color: whitesmoke;
+text-align: center;
+
+}
+
+.foto{
+
+  position: relative;
+  height: 50vh;
+  width: 100vw;
+
+}
+
